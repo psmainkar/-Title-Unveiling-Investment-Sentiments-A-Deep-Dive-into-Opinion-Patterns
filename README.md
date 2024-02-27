@@ -1,1 +1,1 @@
-# EDA_Finance
+This is a case study delving into investment opinions across seven major options. With a rich dataset capturing diverse perspectives, this project scrutinizes opinion patterns to unearth valuable insights. By dissecting respondent choices, we aim to unravel underlying trends, preferences, and sentiments, enabling robust conclusions to guide investment strategies and decision-making in a dynamic market landscape.
